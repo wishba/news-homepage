@@ -2,6 +2,14 @@
   grid-column: 1/3;
 }
 
+.main__body {
+  margin-top: 1rem;
+}
+
+.main__body>* {
+  margin: auto;
+}
+
 .aside__title {
   /* margin: 0; */
   margin-bottom: .5rem;
