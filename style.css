@@ -1,7 +1,11 @@
 @media (min-width:992px) {
-  .grid.grid__main {
+  .grid.grid--main {
     grid-template-columns: 2fr 1fr;
   }
+}
+
+.grid.grid--list {
+  grid-template-columns: 1fr 2fr;
 }
 
 .attribution {
