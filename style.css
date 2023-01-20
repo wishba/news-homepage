@@ -35,8 +35,13 @@
     grid-template-columns: 2fr 1fr;
   }
 
+  .main--flex {
+    display: flex;
+    flex-direction: column;
+  }
+
   .grid--body {
-    margin-top: 1rem;
+    margin: auto;
   }
 
   .grid--body h1 {
