@@ -31,8 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL : https://wishba-news-homepage.netlify.app
+- Live Site URL (build with picocss only) : https://picocss-only--wishba-news-homepage.netlify.app
 
 ## My process
 
@@ -80,9 +81,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
+- Twitter - [@wishba_](https://twitter.com/wishba_)
 
 <!-- ## Acknowledgments
 
