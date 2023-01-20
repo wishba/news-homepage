@@ -1,5 +1,14 @@
 .main {
-  padding-top: 0;
+  padding: 0;
+}
+
+.aside {
+  padding: 1rem;
+  margin-bottom: 5rem;
+}
+
+.aside h2 {
+  color: hsl(35, 77%, 62%);
 }
 
 .aside h3 {
@@ -8,6 +17,7 @@
 
 .grid--list {
   grid-template-columns: 1fr 2fr;
+  margin-bottom: 1rem;
 }
 
 .grid--list h2,
@@ -31,5 +41,11 @@
 
   .grid--body h1 {
     margin: auto;
+  }
+}
+
+@media (prefers-color-scheme:light) {
+  .aside {
+    background-color: hsl(240, 100%, 5%);
   }
 }
