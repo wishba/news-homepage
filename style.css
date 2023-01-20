@@ -11,7 +11,6 @@
 }
 
 .aside__title {
-  /* margin: 0; */
   margin-bottom: .5rem;
 }
 
@@ -24,11 +23,7 @@
 .article__image {
   content: '';
   display: inline-block;
-  /* background-size: auto; */
-  /* background-size: auto 100%; */
   background-position: center;
-  /* width: 5rem; */
-  /* width: max-content; */
 }
 
 .article__image--pc {
@@ -43,12 +38,7 @@
   background-image: url(assets/images/image-gaming-growth.jpg);
 }
 
-.article__content {
-  /* grid-column: 2/4; */
-}
-
 .article__content>* {
-  /* margin: auto; */
   margin: 0;
 }
 
